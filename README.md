@@ -1,7 +1,7 @@
 # flask_5_tailwind
 
 ## Video Creation
-This past summer I went on a trip to Lake Placid and took a video overlooking the Adirondack Mountains and Lake Placid Lake. The video was recorded at one of the High Peaks of the Adirondack Mountains with the elevation at 4,867′.
+This past summer I went on a trip to Lake Placid and took a video overlooking the Adirondack Mountains and the Lake Placid. The video was recorded at one of the High Peaks of the Adirondack Mountains, Whiteface Mountain, at the elevation of 4,867′.
 
 ## Cloud CDN and Video Hosting Setup
 1. Once logged into Microsoft Azure, to go **`Storage accounts`**.
